@@ -57,5 +57,4 @@ the program outputs 7, 8, 6, 8, 7,
 runtime error at LINE I
 */
 
-// Answer: compilation error in LINE II
-// Explanation: bind1st is deprecated in C++11. Use std::bind instead.`
+// Answer: the program outputs 0, 0, 3, 5, 6, 8, 7,

@@ -49,5 +49,3 @@ compilation error in LINE I
 */
 
 //Answer: compilation error in LINE I
-//Explanation: The program outputs: compilation error in LINE I. The find function returns an iterator, so you should dereference the iterator to get the value. The program outputs: found, 8, 9, 7, 6, 4, 1, 1, 4, 6, 7, 8, 9, because the find function returns an iterator to the first element found in the range. The program doesn't output 9, 6 because the find function returns an iterator to the first element found in the range. There are no runtime errors in the code.
-

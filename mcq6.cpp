@@ -41,5 +41,4 @@ runtime error at LINE I
 compilation error in LINE II
 */
 
-//Answer: compilation error in LINE I
-//Explanation: The program outputs: compilation error in LINE I. The find_end function searches for the last occurrence of the subsequence in the range. The program outputs: Found at position: 2, because the subsequence {7, 6, 4} is found in the vector v at position 2. The program doesn't output Found at position: because the find_end function returns an iterator to the first element found in the range. There are no runtime errors in the code.
+//Answer: program output: Found at position: 2

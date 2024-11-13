@@ -74,7 +74,4 @@ the program outputs 8, 9, 7, 6, 4, 1, 4,
 the program outputs 8, 9, 7, 6, 4, 1,
 */
 
-// Answer
-// compilation error in LINE II
-//Explanation: 
-//The lower_bound function requires a comparison function to be defined for the class. The Pocket class does not have a comparison function defined. The lower_bound function will not compile without a comparison function. The program will not compile.
+// Answer: the program outputs 8, 9, 7, 6, 4, 1, 4,

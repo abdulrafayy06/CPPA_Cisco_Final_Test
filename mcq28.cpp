@@ -11,4 +11,3 @@ program output: 3, 3,
 */
 
 // Answer: program output: 3, 3, 
-// Explanation: The lower_bound and upper_bound methods return iterators to the first element that is not less than the specified value and the first element that is greater than the specified value, respectively. The erase method removes all elements in the range specified by the lower_bound and upper_bound methods. The insert method inserts the specified value into the set. The correct code should be:

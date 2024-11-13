@@ -45,4 +45,3 @@ compilation error in LINE II
 */
 
 // Answer: compilation error in LINE I
-// Explanation: bind2nd is deprecated in C++11. Use std::bind instead.`

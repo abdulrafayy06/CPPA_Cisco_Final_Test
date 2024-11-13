@@ -47,4 +47,3 @@ program output: one, four, six, seven, eight, nine,
 */
 
 //Answer: compilation error in LINE II
-//Explanation: m[2] returns a string, so you can't access the value member of a string. You should use m[2] == "seven" instead. Also, there is a compilation error in LINE I because the extra semicolon after the for loop. The program outputs: one, four, six, seven, eight, nine, 7. The size of the map is 7 because there are 7 elements in the map.

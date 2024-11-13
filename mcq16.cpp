@@ -48,7 +48,4 @@ the program outputs 1, 4, 4, 6,
 runtime error at LINE I
 */
 
-// Answer
-//the program outputs 1, 4, 6, 7, 0, 0, 0,
-//Explanation
-//The merge function merges two sorted ranges. The first range is [mynumbers1, mynumbers1 + 2) and the second range is [mynumbers2, mynumbers2 + 2). The result is stored in v1.begin(). The output is 1, 4, 6, 7, 0, 0, 0, which is the result of merging the two ranges. The first range is [1, 4) and the second range is [4, 6). The result is [1, 4, 4, 6). The remaining elements in v1 are 0, 0, 0.
+// Answer: the program outputs 1, 4, 6, 7, 0, 0, 0,

@@ -89,6 +89,4 @@ runtime error at LINE I
 compilation error in LINE I
 */
 
-// Answer: compilation error in LINE II
-//Explanation:
-// The set_symmetric_difference function requires that the destination range is at least as large as the largest of the two source ranges. In this case, the destination range is of size 7, which is larger than the largest source range of size 4. The program will compile and run without any errors, and the output will be 1, 4, 4, 6, 7, 8, 0, which is the result of the set_symmetric_difference operation on the two source ranges. The set_symmetric_difference function returns the elements that are unique to each of the two source ranges, and stores them in the destination range. In this case, the elements that are unique to the first source range are 6, 7, and 8, and the elements that are unique to the second source range are 1 and 4. The destination range is of size 7, so the remaining elements are filled with zeros.
+// Answer: the program outputs 1, 4, 4, 6, 7, 8, 0,

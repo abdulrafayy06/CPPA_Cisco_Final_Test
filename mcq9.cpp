@@ -84,5 +84,4 @@ runtime error at LINE I
 compilation error in LINE II
 */
 
-//Answer: compilation error in LINE I
-//Explanation: The program outputs: compilation error in LINE I. The generate function requires a function object that takes no arguments. The program doesn't output 3, 4, 5, 3, 4, 5, because the generate function generates a sequence of numbers starting from 10. The program doesn't output 3, 4, 5, because the for_each function outputs the elements in the order they are stored in the container. There are no runtime errors in the code.
+//Answer: the program outputs 3, 4, 5, 3, 4, 5,

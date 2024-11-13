@@ -50,5 +50,4 @@ runtime error at LINE I
 the program outputs -7, -5, -1, 1, 5, 7,
 */
 
-// Answer: compilation error in LINE II
-// Explanation: The transform algorithm requires that the destination range be at least as large as the source range. In this case, v3 is not large enough to hold the result of the transform algorithm. The correct code should be:
+// Answer: the program outputs -7, -5, -1, 1, 5, 7,

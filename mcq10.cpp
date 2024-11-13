@@ -74,4 +74,3 @@ the program outputs 4, 3, 2, 1, 5,
 */
 
 //Answer: the program outputs 4, 3, 2, 1, 5,
-//Explanation: The program outputs: 4, 3, 2, 1, 5, because the generate function fills the vector v1 with the values 8, 1, 2, 3, 4. The rotate function rotates the elements in the range [v1.begin(), v1.begin() + 1) to the end of the range. The for_each function outputs the elements in the range [v1.begin(), v1.end()). There are no compilation errors in the code. There are no runtime errors in the code.

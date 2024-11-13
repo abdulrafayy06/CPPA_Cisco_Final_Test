@@ -76,5 +76,4 @@ compilation error in LINE I
 the program outputs 4, 1,
 */
 
-//Answer 
-//compilation error in LINE II
+//Answer: runtime error at LINE II

@@ -11,4 +11,3 @@ clear()
 */
 
 // Answer: empty(), size()
-// Explanation: The std::deque class provides the following methods to check if there are elements in the container:

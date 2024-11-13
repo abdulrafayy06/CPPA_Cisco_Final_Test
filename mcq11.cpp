@@ -44,5 +44,4 @@ runtime error at LINE I
 the program outputs 8, 9, 7, 6, 4, 4,
 */
 
-//Answer: compilation error in LINE II
-//Explanation: The program outputs: compilation error in LINE II. The for_each function expects a function object that takes one argument, but the printer function takes two arguments. The program outputs: 8, 9, 7, 6, 4, 1, because the lower_bound function returns an iterator to the first element that is not less than 3. The program doesn't output 8, 9, 7, 6, 4, 1, 4, because the lower_bound function returns an iterator to the first element that is not less than 3. There are no runtime errors in the code.
+//Answer: compilation error in LINE I

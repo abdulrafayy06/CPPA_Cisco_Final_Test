@@ -49,7 +49,4 @@ compilation error in LINE II
 runtime error at LINE I
 */
 
-// Answer
-// the program outputs 1, 4, 7,
-// Explanation
-// The set_symmetric_difference function computes the symmetric difference of two sorted ranges. The first range is [mynumbers1, mynumbers1 + 1) and the second range is [mynumbers2, mynumbers2 + 2). The result is stored in v1.begin(). The output is 1, 4, 7, which is the result of computing the symmetric difference of the two ranges. The symmetric difference of two sets is the set of elements that are in either of the sets, but not in their intersection. The first range is [1) and the second range is [1, 4). The result is [1, 4, 7). The remaining elements in v1 are 0, 0.
+// Answer: the program outputs 1, 4, 7,

@@ -91,5 +91,4 @@ the program outputs 4, 1,
 compilation error in LINE II
 */
 
-// Answer: compilation error in LINE II
-// Explanation: set_intersection requires the destination range to be at least as large as the largest of the two source ranges. In this case, the destination range is v1, which has a size of 7. The source ranges are mynumbers1 and mynumbers2, which have sizes of 3 and 4, respectively. Since the size of mynumbers2 is greater than the size of mynumbers1, the destination range v1 should be at least as large as mynumbers2, which is 4. Therefore, the correct way to call set_intersection is as follows:
+// Answer: the program outputs 1, 4, 0, 0, 0, 0, 0,

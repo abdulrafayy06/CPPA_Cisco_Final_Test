@@ -66,5 +66,4 @@ compilation error in LINE II
 program output: 8, 9, 7, 1, 4, 6, 7, 8, 9,
 */
 
-//Answer: program output: 8, 9, 7, 1, 4, 6, 7, 8, 9, 6, 4, 1, 
-//Explanation: The program outputs: 8, 9, 7, 1, 4, 6, 7, 8, 9, 6, 4, 1, because v1.pop_back() removes the last element from the vector, so the vector v1 has 3 elements. The set s1 has 6 elements, and the deque d1 has 6 elements. The deque d1 has 3 elements removed from the front, so the deque d1 has 3 elements. The for_each algorithm calls the myprint function for each element in the vector v1, set s1, and deque d1. The program doesn't output the last 4 because the deque d1 has 3 elements removed from the front. There are no compilation errors or runtime errors in the code.
+//Answer: compilation error in LINE I 

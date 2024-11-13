@@ -36,4 +36,3 @@ the program outputs 4,
 */
 
 //Answer: the program outputs 4,
-//Explanation: The search_n function searches for the first occurrence of the subsequence in the range. The program outputs: 4, because the subsequence {1, 1} is found in the vector v at position 4. The program doesn't output 8, because the search_n function returns an iterator to the first element found in the range. There are no runtime errors in the code.

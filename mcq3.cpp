@@ -52,4 +52,3 @@ program output: 1, 4, 6, 7, 8, 9, 4,
 */
 
 //The answer is program output: 1, 4, 6, 7, 8, 9,
-//Explanation: The program outputs: 1, 4, 6, 7, 8, 9, because the map is sorted by key. The map has two elements with key 4, so the map size is 6. The program doesn't output the last 4 because the map is sorted by key, and the last 4 is the second element with key 4. There are no compilation errors or runtime errors in the code.

@@ -43,5 +43,4 @@ program outputs: 4, 3
 runtime error at LINE II
 */
 
-// Answer: compilation error in LINE II
-// Explanation: The priority_queue container is a container adapter that provides constant time lookup of the largest element, at the expense of logarithmic time insertion and extraction. The priority_queue container does not provide a push method. Instead, you must use the push method to insert elements into the priority_queue. The correct code should be:
+// Answer: program outputs: 5, 5

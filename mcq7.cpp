@@ -75,4 +75,3 @@ the program outputs 1, 2,
 */
 
 //Answer: the program outputs 1, 2,
-//Explanation: The program outputs: 1, 2, because the adjacent_find function searches for two adjacent elements that are equal. The program doesn't output 2, 3, because the adjacent_find function returns an iterator to the first element found in the range. There are no compilation errors in the code. There are no runtime errors in the code.

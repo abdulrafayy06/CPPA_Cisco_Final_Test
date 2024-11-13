@@ -45,4 +45,3 @@ compilation error in LINE II
 */
 
 // Answer: program output: 1, 4, 6, 7, 8, 9, 10,
-// Explanation: The lower_bound and upper_bound methods return iterators to the first element that is not less than the specified value and the first element that is greater than the specified value, respectively. The erase method removes all elements in the range specified by the lower_bound and upper_bound methods. The insert method inserts the specified value into the set. The correct code should be:
