@@ -44,6 +44,5 @@ the program outputs 8, 9, 7, 6, 4, 1,
 compilation error in LINE II
 */
 
-// Answer: compilation error in LINE II
-// Explanation:
-// The bind2nd function is used to bind the second argument of a binary function. The bind2nd function is deprecated in C++11 and removed in C++17. The bind2nd function is replaced by the bind function in C++11. The bind function is used to bind the arguments of a function. The bind function is defined in the functional header file
+// Answer: compilation error in LINE I
+// Explanation: bind2nd is deprecated in C++11. Use std::bind instead.`
