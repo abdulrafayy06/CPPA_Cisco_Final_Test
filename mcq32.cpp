@@ -47,11 +47,11 @@ main ()
 /*
 the program outputs 4
 the program outputs 3
-the program outputs
+the program outputs 0
 compilation error in LINE I
 compilation error in LINE II
 compilation error in LINE III
 runtime error at LINE I
 */
 
-// Answer:
+// Answer: the program outputs 0
